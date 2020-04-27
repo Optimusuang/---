@@ -5,4 +5,4 @@ https://www.cnblogs.com/jcchan/p/10400504.html
 0+1=1+0=1
 1 + 1 = 10
 有一种简单快速方法如下：
-https://github.com/Optimusuang/Blog-buff/blob/master/1330246-20190219133410408-1352924495.jpg
+！[image](https://github.com/Optimusuang/Blog-buff/blob/master/1330246-20190219133410408-1352924495.jpg)
